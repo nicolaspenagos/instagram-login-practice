@@ -145,8 +145,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout2"
-        android:layout_width="160dp"
-        android:layout_height="29dp"
+        android:layout_width="172dp"
+        android:layout_height="27dp"
         android:layout_marginTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -157,7 +157,7 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="27dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             app:layout_constraintBottom_toBottomOf="parent"
